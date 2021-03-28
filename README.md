@@ -1,4 +1,4 @@
-# Bangla Pronetic Parser in Python
+# Bangla Phonetic Parser in Python
 
 Convert English char by char to bangla
 
